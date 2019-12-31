@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "android_device_xiaomi_sm8150-common",
+    "target_path": "device/xiaomi/sm8150-common"
+  },
+  {
+    "repository": "android_vendor_xiaomi"
+    "target_path": "vendor/xiaomi/sm8150-common"
+  },
+  {
+    "repository": "android_kernel_xiaomi_sm8150"
+    "target_path": "kernel/xiaomi/sm8150"
+]
+
+
+
+
